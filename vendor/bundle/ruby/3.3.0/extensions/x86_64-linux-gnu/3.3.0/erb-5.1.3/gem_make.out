@@ -1,0 +1,19 @@
+current directory: /home/ubuntu/environment/note_app/vendor/bundle/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /home/ubuntu/environment/note_app/vendor/bundle/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20260621-244069-ni8znz sitelibdir\=./.gem.20260621-244069-ni8znz clean
+
+current directory: /home/ubuntu/environment/note_app/vendor/bundle/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20260621-244069-ni8znz sitelibdir\=./.gem.20260621-244069-ni8znz
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/ubuntu/environment/note_app/vendor/bundle/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20260621-244069-ni8znz sitelibdir\=./.gem.20260621-244069-ni8znz install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20260621-244069-ni8znz/erb
+
+current directory: /home/ubuntu/environment/note_app/vendor/bundle/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20260621-244069-ni8znz sitelibdir\=./.gem.20260621-244069-ni8znz clean
